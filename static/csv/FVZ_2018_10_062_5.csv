@@ -1,0 +1,16 @@
+FVZ_2018_10_062;header;sourceNumber;sellDate;receiptDate;creationDate;paymentDate;net;vat;gross;cost;paymentForm;currency;description;title;currencyRate
+;;HALo;2018-10-15;2018-10-15;2018-10-15;2018-10-15;145.58;33.48;179.06;162.32;PRZELEW;PLN;;;1.0000
+;seller;name;acronym;nip;nipEU;account;street;houseName;houseNumber;postCode;city;bankAccount;email
+;;Adecco Poland Sp. z o.o. ;;5260033950;;null;Plac Europejski;2;null;00-844;Warszawa;null;null
+;buyer;name;acronym;nip;nipEU;account;street;houseName;houseNumber;postCode;city;bankAccount;email
+;;JohnDogSPK;JohnDogSPK;;;;;;;;;;
+;recipient;name;acronym;nip;nipEU;account;street;houseName;houseNumber;postCode;city;bankAccount;email
+;;JohnDogSPK;JohnDogSPK;;;;;;;;;;
+;vat;rate;costBase;vatCalculated;vatDeductionRate;vatDeduction;vatCost;gross
+;;23.00;72.79;16.74;50.00;0.00;16.74;89.53
+;;23.00;72.79;16.74;100.00;16.74;0.00;89.53
+;accounts;account;debit;credit;creditInSysCurrency;debitInSysCurrency
+;;221-2;16.74;0.00;16.74;0.00
+;;202-3-1;0.00;179.06;0.00;179.06
+;;402-1;16.74;0.00;16.74;0.00
+;;402-1;145.58;0.00;145.58;0.00
