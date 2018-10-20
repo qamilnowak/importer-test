@@ -9,14 +9,7 @@ from numpy.core.numeric import nan
 import logging
 import sys
 import re
-from tkinter import Tk as Tk
-from tkinter import Frame
-from tkinter import TOP
-from tkinter import Button
-from tkinter import messagebox
-from tkinter import Checkbutton
 from time import strftime
-from tkinter.filedialog import askopenfilenames
 from decimal import *
 import datetime
 
